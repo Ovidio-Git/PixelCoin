@@ -1,0 +1,14 @@
+
+/* Initializing color variables for more control*/
+:root{
+    --very-light-pink:#C7C7C7;
+    --text-input-filed:#F7F7F7;
+    --hospital-green: #ACD9B2;
+    --white:#FFFFFF;
+    --black:#000000;
+}
+
+/* Adding new font for the website*/
+body{
+    font-family: 'Quicksand', sans-serif;
+}
